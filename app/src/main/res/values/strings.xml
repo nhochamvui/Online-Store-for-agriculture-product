@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">thosfarm</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="danhmuc">
+        <item>Rau</item>
+        <item>Củ</item>
+        <item>Quả</item>
+    </string-array>
+</resources>
